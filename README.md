@@ -1,6 +1,4 @@
-# to-do-list-challenge
-
-## Guilherme Pereira de Oliveira, 816 Web Full Stack Degree, Módulo 05  JS Vanilla
+# To-Do-List-challenge
 
 ## Proposta de Teste
 
@@ -20,7 +18,7 @@ Criar uma to-do list que consiste em adicionar elementos a uma lista e poder mar
 - Criar uma boa documentação para a solução (README).
 
 ## Manual do usuário
-- Abra [Lista de tarefas](http://127.0.0.1:5500/index.html)
+- Abra e rode o arquivo index.html 
 - Insira a tarefa no campo a esquerda do botão de inserir tarefa
 - Clique no botão de inserir tarefa. A tarefa será adicionada a uma lista dois segundos após o click. Caso tente-se inserir uma tarefa em branco, um alerta será disparado para que o campo seja preenchido e nenhuma ação será feita
 - Cada nova tafera adicionada vem como padrão 'não feito '
