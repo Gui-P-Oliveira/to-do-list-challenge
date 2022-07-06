@@ -1,8 +1,8 @@
 # To-Do-List-challenge
 
-## Proposta de Teste
+## Proposta de TesteJa
 
-Criar uma to-do list que consiste em adicionar elementos a uma lista e poder marca-los como feito ou não
+Criar uma to-do list que consiste em adicionar elementos a uma lista e poder marca-los como feito ou não. Esse foi o projeto final do módulo de JavaScript Vanilla na instituição Let's Code Academy.
 
 ## Requisitos Obrigatórios
 
@@ -25,6 +25,8 @@ Criar uma to-do list que consiste em adicionar elementos a uma lista e poder mar
 - Todas as tarefas adicionadas a lista são botões clicáveis que mudam o estado de 'não feito' para 'feito' e vice-versa
 - Todas as alterações feitas na lista ficam salvas mesmo após o usuário fechar a aba atual ou recarregar a página
 
+<img src="https://github.com/Gui-P-Oliveira/to-do-list-challenge/blob/b5f2d05804a858ce1aa5de943e613f36ecfd4bb7/to-do-list.gif" width="800" height="410">  
+
 ## Resolução do problema
 - Foram criados três arquivos: HTML, JavasCript e CSS.
 - Os dados capturados no campo de input do HTML são renderizados na tela e armazenados na localStorage através do JS.
@@ -39,6 +41,6 @@ Criar uma to-do list que consiste em adicionar elementos a uma lista e poder mar
 
 ## Sobre o autor
 
-[Linkedin](https://www.linkedin.com/in/guilherme-pereira-de-oliveira-110543178/)
+[Linkedin_Guilherme](https://www.linkedin.com/in/guilherme-pereira-de-oliveira-110543178/)
 
 
