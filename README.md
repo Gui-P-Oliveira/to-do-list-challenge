@@ -1,6 +1,6 @@
 # To-Do-List-challenge
 
-## Proposta de TesteJa
+## Proposta de Teste  
 
 Criar uma to-do list que consiste em adicionar elementos a uma lista e poder marca-los como feito ou não. Esse foi o projeto final do módulo de JavaScript Vanilla na instituição Let's Code Academy.
 
